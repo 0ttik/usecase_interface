@@ -1,0 +1,15 @@
+name: usecase_interface
+description: A simple library that introduces a UseCase interface for clean architecture patterns.
+version: 1.0.0
+repository: https://github.com/0ttik/usecase_interface
+topics:
+  - clean-architecture
+  - usecase
+  - architecture
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
